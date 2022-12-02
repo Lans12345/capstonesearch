@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "155538289966",
+    "project_id": "tdclifecare-776b9",
+    "storage_bucket": "tdclifecare-776b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155538289966:android:0f82edc46d5724135536bf",
+        "android_client_info": {
+          "package_name": "com.example.mental_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155538289966-qhp78hu6l6hecuh9t0tj17opoplcco6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mental_health",
+            "certificate_hash": "5068bed63eda77bfc59d683b901b589c4386b6ac"
+          }
+        },
+        {
+          "client_id": "155538289966-nisrafkjc61509c2q32tvn9ivpulgamg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6jfxxiUvEp84CASzHyLytbXJTCDrAzYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155538289966-nisrafkjc61509c2q32tvn9ivpulgamg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
